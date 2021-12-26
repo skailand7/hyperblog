@@ -2,4 +2,6 @@ Hola Git, mi nombre es Miguel
 
 Estoy iniciando a mis 25.
 
+Master 1.
+
 Manana hara el curso de JS de math.
