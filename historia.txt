@@ -4,4 +4,6 @@ Estoy iniciando a mis 25.
 
 Master 1.
 
+Master 2.
+
 Manana hara el curso de JS de math.
